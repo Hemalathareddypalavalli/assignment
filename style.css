@@ -1,0 +1,25 @@
+.doc{
+    background-color: rgb(21, 0, 255);
+    border-style: double groove;
+    box-sizing: border-box;
+    border: 600;
+    color: aliceblue;
+
+}
+
+.list{
+    background-color: rgb(251, 16, 165);
+    border-style: double solid red yellow;
+    box-sizing: border-box;
+    border: 600;
+    color: rgb(7, 8, 8);
+
+}
+
+.calc{
+    background-color: rgb(46, 207, 38);
+    border-style: double  red yellow;
+    box-sizing: border-box;
+    border: 600cm;
+    color: rgb(12, 12, 12);
+}
